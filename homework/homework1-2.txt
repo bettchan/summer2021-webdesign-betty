@@ -1,0 +1,22 @@
+Betty@DESKTOP-GFNFRFQ MINGW64 ~/desktop/summer2021-webdesign-betty
+$ git clone https://github.com/eagarcia8/summer2021-webdesign-eduardo.git
+Cloning into 'summer2021-webdesign-eduardo'...
+remote: Enumerating objects: 23, done.
+remote: Counting objects: 100% (23/23), done.
+remote: Compressing objects: 100% (19/19), done.
+remote: Total 23 (delta 3), reused 19 (delta 2), pack-reused 0
+Receiving objects: 100% (23/23), 184.25 KiB | 368.00 KiB/s, done.
+Resolving deltas: 100% (3/3), done.
+
+Betty@DESKTOP-GFNFRFQ MINGW64 ~/desktop/summer2021-webdesign-betty
+$ ls
+assignments/  handouts/  projects/  summer2021-webdesign-eduardo/
+
+Betty@DESKTOP-GFNFRFQ MINGW64 ~/desktop/summer2021-webdesign-betty
+$ touch homework1-2.txt
+
+Betty@DESKTOP-GFNFRFQ MINGW64 ~/desktop/summer2021-webdesign-betty
+$ mkdir homework
+
+Betty@DESKTOP-GFNFRFQ MINGW64 ~/desktop/summer2021-webdesign-betty
+$ touch homework1-2.txt
