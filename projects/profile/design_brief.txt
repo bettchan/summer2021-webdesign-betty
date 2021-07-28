@@ -1,0 +1,25 @@
+
+Color chocies
+1. the google font I would like to use for my website: Roboto, Orbitron, Bank Gothic
+2. I use Finance icon from fontawesome: Chart-line, chart-pie, coin, dollar comment
+3. color name:Aabe49 ; color theme: monochromatic; color code: #aabe49
+4. image: myself; bank image; calculator image
+
+MY HOME PAGE
+This is Betty Chan, welcome to my website.  I live in San Francisco, I have background in Finance, the organization 
+I worked for I deal with all matters loan applications,
+appraisal, and support of small businesses. I ensure proper appraisal of loan applications and all the laws and 
+legal requirements as well as eligibility of borrowers to support the right businesses and individuals to boost 
+and grow their businesses. I offered business administration education to all the customers who seek loans from my bank.
+This training includes credit management, financial management skills, market research and development, 
+creating credible and bankable business plans, and contemporary issues in business management which includes 
+calculation and estimation of risk. 
+
+MY CONTACT
+betty.chan@my.csun.edu
+resume: https://github.com/bettchan/resume.pdf
+
+MY PROJECT
+build a calculator app on the website using html, css and javascript
+
+
