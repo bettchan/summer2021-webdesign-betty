@@ -1,3 +1,4 @@
+Homework8-1
 
 Color chocies
 1. the google font I would like to use for my website: Roboto, Orbitron, Bank Gothic
@@ -22,4 +23,30 @@ resume: https://github.com/bettchan/resume.pdf
 MY PROJECT
 build a calculator app on the website using html, css and javascript
 
+Homework8-2
+
+Three different portfolios choices
+portfolios #1
+https://www.wix.com/website/templates/html/business/finance-law
+3 thins I like:receive upgrade design template; not commit to long term plans; receive all in one solution
+3 things I don't like:Templates not interchangeabl; site isn't transferrable; Tracking and analytics require a paid plan.
+	header:Navigation links. Company logo
+	main:summary of experience and credentials
+	footer:	copyright, contact
+
+portfolio #2
+https://www.squarespace.com/feature-index
+3 thins I like:all -in-one platform; good for creative work; multilingual expereince
+3 things I don't like:no history functionality; need to add feature; limit customerization
+	header:photos, bios, clear business description
+	main:design pattern, showcase, testimonials
+	footer:contact, privacy policy, sitemap
+
+portfolio #3
+https://www.weebly.com/online-portfolio
+3 thins I like:company own by square inc; easy to use for beginner; easy to use
+3 things I don't like:no software installation, limit blog, no backup
+	header:call to actions, easy URL, mobile friendly design
+	main:photo, contact, video 
+	footer:link to map, direction, copyright, social icons
 
